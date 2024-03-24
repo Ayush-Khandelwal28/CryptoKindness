@@ -21,6 +21,7 @@ function IndexPage({ onDonateClick }) {
 
     return (
         <div className="index">
+            <h1>Testing</h1>
             <div className="quote-wrapper">
                 <blockquote>
                     "Be the change that you wish to see in the world." - Mahatma Gandhi
